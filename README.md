@@ -1,2 +1,2 @@
-# Elixier101
-Elixier Kurse, Tutorials, Playground 
+# Elixir101
+Elixir Kurse, Tutorials, Playground 
