@@ -3,5 +3,5 @@ defmodule HelloWorld do
     IO.puts("Hello World!")
   end
 end
-changetest
+
 HelloWorld.writeHelloWorld()
